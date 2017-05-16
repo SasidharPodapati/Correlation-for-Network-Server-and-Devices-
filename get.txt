@@ -1,0 +1,10 @@
+Total Accesses: 2414191
+Total kBytes: 1519104
+CPULoad: .928334
+Uptime: 2707
+ReqPerSec: 891.833
+BytesPerSec: 574644
+BytesPerReq: 644.341
+BusyWorkers: 3
+IdleWorkers: 8
+Scoreboard: W_______K._K..........................................................................................................................................
